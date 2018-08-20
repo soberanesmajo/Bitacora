@@ -3,5 +3,22 @@ body{
 }
 
 main{
-    
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#print{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+#size-card{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 20%;
+    margin-left: 20%;
+    width: 200%;
 }
